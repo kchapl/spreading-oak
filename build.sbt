@@ -5,5 +5,5 @@ scalaVersion := "2.13.13"
 libraryDependencies ++= Seq(
   guice,
   "dev.zio"                %% "zio"                % "1.0.18",
-  "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
+  "org.scalatestplus.play" %% "scalatestplus-play" % "5.1.0" % Test
 )
